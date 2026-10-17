@@ -1,0 +1,6 @@
+# Local operating-system and generated files
+.DS_Store
+**/.DS_Store
+__pycache__/
+/output/
+/tmp/
