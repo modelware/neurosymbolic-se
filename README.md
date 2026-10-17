@@ -56,7 +56,7 @@ Email lab and capstone submissions directly to the lecturer, **Dr Maged Elaasar*
 Clone the course instructions with:
 
 ```bash
-git clone https://github.com/melaasar/neurosymbolic-se.git
+git clone https://github.com/modelware/neurosymbolic-se.git
 ```
 
 Work in your own Sierra fork for labs and in separate repositories for your capstone. Course videos and slides are supplied through the Modelware NSEE course.
