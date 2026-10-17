@@ -25,11 +25,17 @@ The course combines **ontological modeling, automated reasoning, generative AI, 
 | [7](instructions/Module7.md) | Generation and Publishing | Generators, packages, registries, and independent consumers |
 | [8](instructions/Module8.md) | Models at Scale: Versions, Federation, CI/CD | Controlled change, integration checks, and a traceable capstone release |
 
-## What you will build
+## Running example: Sierra Method and Fire Force VI
 
-By the end, your capstone connects an engineering question to a versioned model, an explicit methodology, verified analysis, AI-assisted work, and generated products. You release a reproducible version `1.0.0` with evidence showing what was checked and how each original question was answered or why a gap remains.
+Lectures, demonstrations, and labs use **Sierra Method** to model **Fire Force VI**, an autonomous wildfire-response system. This shared example shows how the course techniques fit together.
 
-![Fire Force VI running example](assets/fire-force-vi-case-study-collage.png)
+![Fire Force VI: the shared running example for lectures, demonstrations, and labs](assets/fire-force-vi-case-study-collage.png)
+
+## Your capstone project
+
+**Choose your own engineering system and domain.** Define its scope, stakeholders, and engineering questions in Module 1, then develop your own methodology and system model throughout the course. Apply the techniques practiced with Sierra and Fire Force VI to your chosen project.
+
+By the end, your capstone connects those engineering questions to a versioned model, an explicit methodology, verified analysis, AI-assisted work, and generated products. You release a reproducible version `1.0.0` with evidence showing what was checked and how each original question was answered or why a gap remains.
 
 ## Submissions
 
