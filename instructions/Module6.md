@@ -2,7 +2,7 @@
 
 Modelware · Neurosymbolic Systems Engineering (NSEE)
 
-Complete Lab 6 using the shared Sierra / Fire Force running example. Continue **Capstone Milestone 4** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each milestone.
+Complete Lab 6 using the shared Sierra / Fire Force running example. Complete **Project 4** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each project increment.
 
 Follow the pacing and review arrangements in the [course guide](CourseGuide.md). Keep reproducible evidence of your work. Email submissions directly to the lecturer, **Dr Maged Elaasar**, at [melaasar@modelware.io](mailto:melaasar@modelware.io).
 
@@ -102,7 +102,7 @@ of the asks (screen capture, answer comparison, observations, and chat logs).
 
 ---
 
-## Capstone Milestone 4 (Modules 6-8), Module 6 Component: Put an Agent to Work on Your Method
+## Project 4 (Module 6): Put an Agent to Work on Your Method
 
 Run the same experiment three times, adding one capability each time, then improve the
 skill based on what you see.
@@ -134,13 +134,16 @@ skill based on what you see.
 - **Round 4:** point to the specific log lines where the agent drifted from the skill, the
   skill change you made, and whether a rerun behaved better.
 
-### Saving Your Module 6 Work
+### Submitting Project 4
 
 Revert the git changes after completing rounds 1, 2, and 3 (after taking screenshots and
 logs). Commit only the result of round 4 (the adjusted skill) in your project repo, push it,
-and continue from it in Module 7. Preserve the following evidence for the cumulative Capstone Milestone 4
-submission:
+and submit **Project 4** after completing Module 6, before beginning Module 7. Email a
+single evidence document to **Dr Maged Elaasar** at
+[melaasar@modelware.io](mailto:melaasar@modelware.io) containing:
 
 - The **project repo URL** and the **commit hash** of the adjusted skill.
 - The chat logs and git-change screenshots from rounds 1, 2, and 3.
 - The round 4 report and its chat log.
+
+Continue from this committed work in Module 7 for Project 5.

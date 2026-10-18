@@ -2,7 +2,7 @@
 
 Modelware · Neurosymbolic Systems Engineering (NSEE)
 
-Complete Lab 7 using the shared Sierra / Fire Force running example. Continue **Capstone Milestone 4** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each milestone.
+Complete Lab 7 using the shared Sierra / Fire Force running example. Begin **Project 5** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each project increment.
 
 Follow the pacing and review arrangements in the [course guide](CourseGuide.md). Keep reproducible evidence of your work. Email submissions directly to the lecturer, **Dr Maged Elaasar**, at [melaasar@modelware.io](mailto:melaasar@modelware.io).
 
@@ -183,8 +183,9 @@ Push your work to your `sierra-method` fork, then submit a document by email to 
 
 ---
 
-## Capstone Milestone 4 (Modules 6-8), Module 7 Component: Generate, Publish, and Reuse Your Methodology
+## Project 5 (Modules 7-8), Module 7 Component: Generate, Publish, and Reuse Your Methodology
 
+Build on the methodology and adjusted skill submitted for Project 4 in Module 6.
 Do the same three steps on your own method: give it a generator, publish it, and prove it
 works from an independent repository.
 
@@ -221,7 +222,7 @@ The consumer repository must:
 ### Saving Your Module 7 Work
 
 Commit and push both repositories, and continue from them in Module 8. Preserve the following
-evidence for the cumulative Capstone Milestone 4 submission:
+evidence for the cumulative Project 5 submission:
 
 - The **URLs and commit hashes** of your methodology repo and of the new example repo.
 - A description of what you did: the generator and what it produces, what the package

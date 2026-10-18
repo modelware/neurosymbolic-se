@@ -2,7 +2,7 @@
 
 Modelware · Neurosymbolic Systems Engineering (NSEE)
 
-This module has no separate lab. Continue **Capstone Milestone 4** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each milestone.
+This module has no separate lab. Continue **Project 5** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each project increment.
 
 Follow the pacing and review arrangements in the [course guide](CourseGuide.md). Keep reproducible evidence of your work. Email submissions directly to the lecturer, **Dr Maged Elaasar**, at [melaasar@modelware.io](mailto:melaasar@modelware.io).
 
@@ -66,7 +66,7 @@ terminal commands in a collapsed **Terminal** block if you prefer them.
 
 ---
 
-## Capstone Milestone 4 (Modules 6-8), Module 8 Component: The Capstone Release
+## Project 5 (Modules 7-8), Module 8 Component: The Capstone Release
 
 Publish and defend a reproducible, verified, and approved version **1.0.0** of your
 engineering model.
@@ -100,7 +100,7 @@ sitting; most of your thinking goes into Part D.
 > [README](https://github.com/modelware/sierra-method#readme).
 
 **Take screenshots as you go.** Steps that need one are marked **Screenshot**. The full list
-is in [Submitting Capstone Milestone 4](#submitting-capstone-milestone-4).
+is in [Submitting Project 5](#submitting-project-5).
 
 ---
 
@@ -351,7 +351,7 @@ move the tag for it.
 #### Deliverable 9: Write the final report
 
 The final report closes the course. Revisit the engineering questions from
-[Capstone Milestone 1](Module1.md#capstone-milestone-1-module-1-project-scope--problem-statement) (Section 3), answer
+[Project 1](Module1.md#project-1-module-1-project-scope--problem-statement) (Section 3), answer
 them using the analyses developed in the method, and **trace every conclusion to the
 approved 1.0.0 release**. Then reflect on the whole approach.
 
@@ -359,7 +359,7 @@ For each Module 1 question, give:
 
 | Part | What to include |
 | --- | --- |
-| Question | The question from Capstone Milestone 1 and its stakeholder. If you revised it, give both versions and why. |
+| Question | The question from Project 1 and its stakeholder. If you revised it, give both versions and why. |
 | Evidence | The query, view, analysis, or generated product that answers it, linked **at tag `v1.0.0`** |
 | Answer | The result, computed from the release, and what it tells the stakeholder |
 | *or* Gap | If it cannot be answered, the diagnosed gap and its source (vocabulary, pattern, process, or outside the model), as in Module 5 |
@@ -378,13 +378,12 @@ Then write a **reflection** (1-2 pages):
 
 ---
 
-## Submitting Capstone Milestone 4
+## Submitting Project 5
 
-Push everything, then submit **Capstone Milestone 4** by email to **Dr Maged Elaasar** at [melaasar@modelware.io](mailto:melaasar@modelware.io) as one
-document covering Modules 6, 7, and 8.
+Push everything, then submit **Project 5** by email to **Dr Maged Elaasar** at [melaasar@modelware.io](mailto:melaasar@modelware.io) as one
+document covering Modules 7 and 8.
 
-**Module 6:** the project repo URL, the commit hash of the adjusted skill, the chat logs and
-git-change screenshots from rounds 1-3, and the round 4 report and chat log.
+Module 6’s agent experiment and adjusted skill are submitted separately as **Project 4**.
 
 **Module 7:** the URLs and commit hashes of the methodology repo and the example repo, the
 description of the generator, package, and consumer, and the evidence for each step.

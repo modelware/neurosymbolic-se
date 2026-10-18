@@ -12,14 +12,14 @@ Bring an engineering domain you understand, a computer on which you can install 
 
 ## Pacing
 
-The course has eight modules. Complete them in sequence because later modules build on earlier artifacts. Follow the pacing and review arrangements provided by Modelware. When working independently, use the module completion criteria and capstone milestones to decide when to continue.
+The course has eight modules. Complete them in sequence because later modules build on earlier artifacts. Follow the pacing and review arrangements provided by Modelware. When working independently, use the module completion criteria and project increments to decide when to continue.
 
-Use the current module guides and the [capstone roadmap](CapstoneRoadmap.md) for the practical work and milestone progression.
+Use the current module guides and the [capstone roadmap](CapstoneRoadmap.md) for the practical work and project progression.
 
 ## Two practical tracks
 
 - **Labs:** extend or investigate the Sierra / Fire Force VI running example in your own `sierra-method` fork. Module 8 focuses on the capstone and has no separate lab.
-- **Capstone:** choose your own engineering system, define its methodology, and develop a model that answers specific stakeholder questions. Four milestones combine work across the eight modules.
+- **Capstone:** choose your own engineering system, define its methodology, and develop a model that answers specific stakeholder questions. Five cumulative projects cover Module 1, Modules 2–3, Modules 4–5, Module 6, and Modules 7–8.
 
 Keep the lab fork separate from the capstone. Where a guide uses an illustrative `example.com` IRI or repository name, replace it consistently for your own work.
 

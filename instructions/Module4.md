@@ -2,7 +2,7 @@
 
 Modelware · Neurosymbolic Systems Engineering (NSEE)
 
-Complete Lab 4 using the shared Sierra / Fire Force running example. Continue **Capstone Milestone 3** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each milestone.
+Complete Lab 4 using the shared Sierra / Fire Force running example. Continue **Project 3** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each project increment.
 
 Follow the pacing and review arrangements in the [course guide](CourseGuide.md). Keep reproducible evidence of your work. Email submissions directly to the lecturer, **Dr Maged Elaasar**, at [melaasar@modelware.io](mailto:melaasar@modelware.io).
 
@@ -55,7 +55,7 @@ Push your work to your `sierra-method` fork, then submit a document by email to 
 
 ---
 
-## Capstone Milestone 3 (Modules 4-5), Module 4 Component: Turn Your Vocabulary Into a Small Methodology
+## Project 3 (Modules 4-5), Module 4 Component: Turn Your Vocabulary Into a Small Methodology
 
 Narrative should explain rationale, alternatives, uncertainty, and open issues, not restate
 the model.
@@ -74,4 +74,4 @@ the model.
 ### Saving Your Module 4 Work
 
 Commit and push this work to your project repository. Continue from it in Module 5; the
-cumulative Capstone Milestone 3 submission is ready after the Module 5 analysis layer is complete.
+cumulative Project 3 submission is ready after the Module 5 analysis layer is complete.

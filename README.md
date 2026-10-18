@@ -35,6 +35,18 @@ Lectures, demonstrations, and labs use **Sierra Method** to model **Fire Force V
 
 **Choose your own engineering system and domain.** Define its scope, stakeholders, and engineering questions in Module 1, then develop your own methodology and system model throughout the course. Apply the techniques practiced with Sierra and Fire Force VI to your chosen project.
 
+The capstone has five cumulative project increments:
+
+| Project | Modules |
+| --- | --- |
+| Project 1 | 1 |
+| Project 2 | 2–3 |
+| Project 3 | 4–5 |
+| Project 4 | 6 |
+| Project 5 | 7–8 |
+
+See the [capstone roadmap](instructions/CapstoneRoadmap.md) for outcomes and module-relative submission points.
+
 By the end, your capstone connects those engineering questions to a versioned model, an explicit methodology, verified analysis, AI-assisted work, and generated products. You release a reproducible version `1.0.0` with evidence showing what was checked and how each original question was answered or why a gap remains.
 
 ## Submissions

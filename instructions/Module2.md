@@ -2,7 +2,7 @@
 
 Modelware · Neurosymbolic Systems Engineering (NSEE)
 
-Complete Lab 2 using the shared Sierra / Fire Force running example. Continue **Capstone Milestone 2** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each milestone.
+Complete Lab 2 using the shared Sierra / Fire Force running example. Continue **Project 2** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each project increment.
 
 Follow the pacing and review arrangements in the [course guide](CourseGuide.md). Keep reproducible evidence of your work. Email submissions directly to the lecturer, **Dr Maged Elaasar**, at [melaasar@modelware.io](mailto:melaasar@modelware.io).
 
@@ -126,12 +126,12 @@ validates).
 
 ---
 
-## Capstone Milestone 2 (Modules 2-3), Module 2 Component: Initial Vocabulary and Description
+## Project 2 (Modules 2-3), Module 2 Component: Initial Vocabulary and Description
 
 **Complete before Module 4** (after completing Module 3).
 
 This is the **project** track: your own system, your own repo, built
-on the scope statement you wrote for Capstone Milestone 1. You start a new repo/project
+on the scope statement you wrote for Project 1. You start a new repo/project
 from scratch and grow it every module for the remaining modules.
 
 ### Starting the repo

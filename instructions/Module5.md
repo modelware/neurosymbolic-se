@@ -2,7 +2,7 @@
 
 Modelware · Neurosymbolic Systems Engineering (NSEE)
 
-Complete Lab 5 using the shared Sierra / Fire Force running example. Continue **Capstone Milestone 3** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each milestone.
+Complete Lab 5 using the shared Sierra / Fire Force running example. Continue **Project 3** on your own engineering system. Use the [capstone roadmap](CapstoneRoadmap.md) to see which modules contribute to each project increment.
 
 Follow the pacing and review arrangements in the [course guide](CourseGuide.md). Keep reproducible evidence of your work. Email submissions directly to the lecturer, **Dr Maged Elaasar**, at [melaasar@modelware.io](mailto:melaasar@modelware.io).
 
@@ -85,7 +85,7 @@ notebook**, and a **short reflection**.
 
 ---
 
-## Capstone Milestone 3 (Modules 4-5), Module 5 Component: Add an Analysis Layer to Your Methodology
+## Project 3 (Modules 4-5), Module 5 Component: Add an Analysis Layer to Your Methodology
 
 Every methodology question should end in either an **answer** or a **diagnosed gap**.
 
@@ -113,6 +113,6 @@ Activity."*
 
 ### Submitting
 
-Push the cumulative Module 4-5 work, then submit **Capstone Milestone 3** by email to **Dr Maged Elaasar** at [melaasar@modelware.io](mailto:melaasar@modelware.io)
+Push the cumulative Module 4-5 work, then submit **Project 3** by email to **Dr Maged Elaasar** at [melaasar@modelware.io](mailto:melaasar@modelware.io)
 with your **project repo URL** and the **latest commit hash that contains both the Module 4
 methodology and Module 5 analysis work**.
